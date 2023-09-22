@@ -4,7 +4,8 @@ public class Main {
         do {
             i--;
         } while (i > 1);
-
+        System.out.println("Value i = " + i);
+        System.out.println("Value i = " + i);
         System.out.println("Value i = " + i);
     }
 }
